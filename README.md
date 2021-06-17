@@ -1,5 +1,8 @@
 # tgtk - telegram leech bot
 
+https://github.com/kristy-offl/tgtk
+
+https://github.com/reaitten/tgtk
 ## Notes:
 a pypi package named [tgtk](https://pypi.org/project/tgtk) containing all bot code, easily to install with 
 ```
